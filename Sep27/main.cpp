@@ -9,7 +9,7 @@
 
 using namespace std;
 
-int main(int argc, const char * argv[]) {
+int main() {
     // insert code here...
     cout << "Kenenisa winter supply store"<<endl;
     cout <<endl;
